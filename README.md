@@ -1,3 +1,5 @@
+# Fraud Detection
+
 ## Install project   
 
 ```bash
