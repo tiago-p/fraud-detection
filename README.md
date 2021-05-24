@@ -1,27 +1,27 @@
-##Install project   
+## Install project   
 
 ```bash
 npm install
 ```
 
-##Build project  
+## Build project  
 
 ```bash
 npm run build
 ```
 
-##Run tests  
+## Run tests  
 ```bash
 npm test
 ```
 
-##Run project node  
+## Run project node  
 
 ```bash
 node dist/cli/main.js 
 ```
 
-##Run project npm  
+## Run project npm  
 
 ```bash
 npm start
